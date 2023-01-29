@@ -1,12 +1,14 @@
 // ==UserScript==
 // @name         Old Wikipedia Layout
-// @namespace    http://melashri.net/wikipedia
+// @namespace    Changes the layout of Wikipedia to the old version
 // @version      0.1
 // @description  Restores the old Wikipedia layout
 // @author       Mohamed Elashri
 // @match        https://*.wikipedia.org/*
 // @run-at       document-start
 // @grant        none
+// @homepage     https://github.com/MohamedElashri/old_wikipedia_layout
+// @downloadURL  https://github.com/MohamedElashri/old_wikipedia_layout/raw/main/old_wikipedia.user.js 
 // @license      MIT
 // ==/UserScript==
 
